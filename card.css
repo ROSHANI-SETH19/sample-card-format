@@ -1,0 +1,55 @@
+.card{
+    background-color: rgb(255, 240, 255);
+    height: 434px;
+    width: 305px;
+    border-radius: 10px;
+}
+.card img{
+    padding: 8px;
+    height: 163px;
+    width: 287px;
+    border-radius: 19px;
+}
+.card h2{
+    font-family: cursive;
+    color: rgb(209, 43, 228);
+    margin: -2px;
+    padding: 0px 11px;
+    /* text-decoration: underline;
+    text-decoration-color: rgb(134, 10, 116); */
+}
+.card span{
+    background: hsl(322, 70%, 68%);
+    margin: 8px;
+    padding: 2px 26px;
+    color: rgb(239, 193, 229);
+    border: none;
+    border-radius: 169px;
+    font-weight: 700;
+}
+.card button{
+    background: hsl(324, 83%, 51%);
+    margin: 8px;
+    padding: 2px 26px;
+    color: rgb(239, 193, 229);
+    border: none;
+    border-radius: 169px;
+    font-weight: 700;
+   
+}
+.div{
+    text-align: center;
+}
+.card p{
+    font-family: fantasy;
+    color: rgb(208, 111, 218);
+    margin: 8px;
+    padding: -1px;
+    font-size: small;
+}
+.card{    
+    text-align: center;
+}
+body{
+    align-items: center;
+}
